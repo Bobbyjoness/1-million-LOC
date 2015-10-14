@@ -5,5 +5,5 @@ we will look and see if every line is even needed (Probably not). The mmo will b
 game to represent love to the world. It should feature lua scripting in some way. 
 
 Also the game will use https://love2d.org/wiki/LPC_License as the License meaning the project will be of the community. 
-The game design is purposefully left extremely open so that everyone canhave something to contribute. The game will have no set
+The game design is purposefully left extremely open so that everyone can have something to contribute. The game will have no set
 story. That means hopefully the community can just add whatever they see fit to the game. 
